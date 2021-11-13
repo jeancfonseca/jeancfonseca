@@ -1,6 +1,6 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jeancfonseca.jeancfonseca)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/jeancfonseca)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaovitorduartemariucio)](https://www.instagram.com/jeanfonseca94) 
+[![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jean.fonseca94@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancfonseca)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeanfonseca94) 
 
  - **web developer** from Brazil at Fulltime Gestora de Dados.
      
